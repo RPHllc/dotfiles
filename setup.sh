@@ -1,0 +1,22 @@
+#!/bin/bash
+cd ~/dotfiles
+stow arduino
+stow bun
+stow conda
+stow config
+stow continue
+stow docker
+stow espressif
+stow gemini
+stow git
+stow kube
+stow npm
+stow nvm
+stow oh-my-zsh
+stow ollama
+stow pyenv
+stow python
+stow ssh
+stow vim
+stow vscode
+stow zsh
